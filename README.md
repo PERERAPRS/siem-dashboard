@@ -30,13 +30,13 @@ This project demonstrates core SOC (Security Operations Center) skills by:
 ## 🚀 Quick Start
 
 ### Prerequisites
-- [Docker Desktop](https://www. docker.com/products/docker-desktop/) installed
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed
 - Python 3.x installed
 - At least 4GB RAM available
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github. com/YOUR_USERNAME/siem-dashboard.git
+git clone https://github.com/YOUR_USERNAME/siem-dashboard.git
 cd siem-dashboard
 ```
 
